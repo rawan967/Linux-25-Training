@@ -35,6 +35,7 @@ setup() {
 	# If you fail to find a folder that should've been there, or fail to set up for grading, return 3
 	
 	echo "Setting up task environment..."
+	chmod +x restart.sh solution.sh
 	"./restart.sh" || { echo "Failed to set up the task"; return $ERROR; }
 	cd "$START_DIR"
 

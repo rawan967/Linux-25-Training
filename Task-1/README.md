@@ -1,7 +1,7 @@
 # Task #1
 **Session #1:** Intro to Linux and the Command Line
 
-**Deadline:** Wednesday 6/8 at 11:59 pm
+**Deadline:** Thursday 7/8 at 11:59 pm
 
 ## Submission Guidelines 📁
 Task correction is **automatic**. Please follow the guidelines to ensure that your task is graded correctly.
