@@ -1,0 +1,26 @@
+FLAG{D4T4_GH0ST_C4UGHT}
+Stage1 :
+cd Ghost
+ls
+find data_stream -type f -size 0c
+nano stage1_answer.txt
+
+Stage2 :
+cd backups 
+ls
+tar -xzf system_tools.tar.gz
+ls
+cd ..
+mv backups/diagnostics.sh tools/
+
+Stage3 :
+bash tools/diagnostics.sh 2> stage3_answer.txt
+
+Stage4 :
+find asset_links -xtype l > stage4_answer.txt
+
+Stage5 :
+bash system/system_check.sh
+bash system/system_check.sh | grep FLAG
+cd ..
+
