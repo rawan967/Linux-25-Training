@@ -2,6 +2,19 @@
 ---
 # Task Grading Result
 
+- **Time of grading:** Monday, August 18, 2025, 09:04 PM
+
+- **Task:** Task-4
+
+- **Result:** CORRECT
+
+
+Logs:
+```bash
+
+---
+# Task Grading Result
+
 - **Time of grading:** Monday, August 18, 2025, 08:35 PM
 
 - **Task:** Task-4
@@ -66,6 +79,7 @@ Tests Failed : 9
 [INFO] Submission needs improvement
 [INFO] Cleaning up...
 [INFO] Cleanup complete
+```
 ```
 ```
 ```
