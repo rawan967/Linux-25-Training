@@ -2,7 +2,7 @@
 ---
 # Task Grading Result
 
-- **Time of grading:** Tuesday, August 19, 2025, 10:35 PM
+- **Time of grading:** Tuesday, August 19, 2025, 11:51 PM
 
 - **Task:** Task-4
 
@@ -15,7 +15,7 @@ Logs:
 [SUCCESS] Setup complete
 [INFO] Testing part one...
 [INFO] [INFO] Running extract_key.sh with arguments
-replace extracted_files/file1? [y]es, [n]o, [A]ll, [N]one, [r]ename: Extraction completed successfully into: extracted_files/
+Extraction completed successfully into: extracted_files/
 [SUCCESS] Extraction folder created: ./extracted_files
 [INFO] Checking if .tar.xz archive was extracted correctly...
 [SUCCESS] tar.xz content extracted and visible
